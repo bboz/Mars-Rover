@@ -1,2 +1,8 @@
 .idea
 *.user
+
+MarsRover/bin
+MarsRover/obj
+
+TestMarsRover/bin
+TestMarsRover/obj
